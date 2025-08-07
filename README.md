@@ -15,7 +15,7 @@ This static site showcases over 50 interactive web applications and examples cre
 
 ## How to Use
 
-Simply browse the main page to see all available examples. Each example is a fully functional web application that runs entirely in your browser.
+Simply browse the [main page](https://aonsyed.github.io/gpt5examples/) to see all available examples. Each example is a fully functional web application that runs entirely in your browser.
 
 ## Deployment
 
